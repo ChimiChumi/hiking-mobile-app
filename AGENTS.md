@@ -1,0 +1,2 @@
+- Always check expo online documentation for the latest updates and best practices when developing with Expo.
+- Always favor using Expo's built-in APIs and components to ensure compatibility and optimal performance.
